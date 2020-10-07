@@ -30,7 +30,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 - Setup with the emulator took a while to setup correctly. Went through hours of troubleshooting, reinstalled and installed Android Studio and then it worked
 - Similar to first challenge: Trying to fix a bug but it was because something was spelled wrong 
-- Need to replace keyboard, typing causes double letters
+- Need to replace keyboard, typing has been causes double letters
+- Learned about LiceCap and can be applied to other projects
 
 
 ## License
